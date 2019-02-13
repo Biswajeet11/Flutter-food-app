@@ -1,0 +1,18 @@
+{
+    "ingredients": [
+        "burger",
+        "chicken",
+        "leaves",
+        "sauce",
+        "pizza",
+        "chicken",
+        "tomato",
+        "dough"
+    ],
+    "steps": [
+        "Place chicken roast in crock pot.",
+        "Mix the dried mixes together in a bowl and sprinkle over the roast.",
+        "Pour the water around the roast.",
+        "Cook on low for 7-9 hours."
+    ]
+}

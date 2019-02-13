@@ -1,0 +1,50 @@
+[    {
+        "image":"images/burger-chips.jpg",
+        "title":"Burger",
+        "description":"Tasty Burger"
+    },
+    {
+        "image":"images/pizza.jpg",
+        "title":"Pizza",
+        "description":"Tasty Pizza"
+    },
+    {
+        "image":"images/kfc.jpg",
+        "title":"Chicken Wings",
+        "description":"Tasty Wings"
+    },
+    {
+        "image":"images/cake.jpg",
+        "title":"Cake",
+        "description":"Tasty Cake"
+    }, 
+    {
+        "image":"images/idli.jpg",
+        "title":"Idli",
+        "description":"Tasty Idli"
+    }, {
+        "image":"images/dosa.jpg",
+        "title":"Dosa",
+        "description":"Tasty Dosa"
+    }, {
+        "image":"images/littichokha.jpg",
+        "title":"Litti Chokha",
+        "description":"Tasty Litti Chokha"
+    }, {
+        "image":"images/paneerbutter.jpg",
+        "title":"Paneer Butter Masala",
+        "description":"Tasty Paneer Butter Masala"
+    }, {
+        "image":"images/pasta.jpg",
+        "title":"Pasta",
+        "description":"Tasty Pasta"
+    }, {
+        "image":"images/chilli-chicken.jpg",
+        "title":"Chilli-Chicken",
+        "description":"Tasty Chilli-Chicken"
+    }, {
+        "image":"images/cholebhature.jpg",
+        "title":"Chole Bhature",
+        "description":"Tasty Chole Bhature"
+    }
+]
