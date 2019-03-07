@@ -1,8 +1,7 @@
 # food_app
 
 
-
-A new Flutter project.
+Food App is a Food reciepe hybrid mobile application which can run both in Android and ios it deals with recipe of different food items as well as the ingridients which can be bought from the store.
 
 ## Getting Started
 
